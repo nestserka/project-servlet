@@ -1,6 +1,4 @@
 # Tic Tac Toe Game using JSP and Servlets
-<img width="591" alt="Screenshot 2023-08-28 at 7 27 36 PM" src="https://github.com/nestserka/project-servlet/assets/78704791/ddb79d05-3a53-4b36-b5fa-a3e433707cd7">
-
 
 ### Prerequisites
 
